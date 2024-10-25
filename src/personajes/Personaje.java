@@ -1,3 +1,5 @@
+package personajes;
+
 public class Personaje {
     private String nombre;
     private int anioNacimiento;

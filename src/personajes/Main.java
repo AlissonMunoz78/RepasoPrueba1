@@ -1,7 +1,9 @@
+package personajes;
+
 public class Main {
     public static void main(String[] args) {
         System.out.printf("------INFORMACION----");
-        Personaje per1 = new Personaje ("Joao",2003,"0983641194");
+        Personaje per1 = new Personaje("Joao",2003,"0983641194");
 
         System.out.println("Nombre:" + per1.getNombre() );
 
